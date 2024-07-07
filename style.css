@@ -1,0 +1,117 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #F5F4F0;
+  
+}
+
+#page {
+  box-sizing: border-box;
+  width: 1120px;
+  margin: 88px auto 80px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 16px;
+}
+
+#headline {
+  color: #E1624F;
+  margin-bottom: 8px;
+  text-transform: uppercase;
+}
+
+h1 {
+  margin-bottom: 40px;
+  font-size: 36px;
+}
+
+h2 {
+  margin-bottom: 8px;
+  font-size: 32px;
+}
+
+h3 {
+  margin-bottom: 4px;
+  margin-left: 8px;
+  font-size: 28px;
+}
+
+h4 {
+  color: #E1624F;
+  margin-bottom: 2px;
+  text-transform: uppercase;
+}
+
+p {
+  margin-bottom: 48px;
+  color: #333333;
+}
+
+#ultimo-p {
+  text-align: center;
+}
+
+#paragraph{
+  margin-bottom: 64px;
+}
+
+#card {
+  font-weight: bold
+}
+
+#description {
+  margin-top: 4px;
+  text-align: center;
+  font-style: italic;
+}
+
+#divider {
+  width: 100%;
+  height: 1px;
+  margin: 40px 0;
+  background-color: #d9d9d9;
+}
+
+ul {
+  list-style-type: disc;
+  margin-top: 3px;
+  margin-left: 19px;
+}
+
+
+
+#li-blue {
+  color: #0C51A7;
+  font-weight: bold;
+}
+
+#li-purple {
+  color: #591B98;
+  font-weight: bold;
+}
+
+#li-pink {
+  color: #E5245E;
+  font-weight: bold;
+}
+
+#li-orange {
+  color: #E95E10;
+  font-weight: bold;
+}
+
+footer {
+  text-align: center;
+  margin-top: 65px;
+  padding-bottom: 48px;
+}
+img {
+  border-radius: 28px;
+  margin-bottom: 20px;
+}
+
+#heart {
+  margin-bottom: -3px;
+}
